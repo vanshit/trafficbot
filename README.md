@@ -20,4 +20,6 @@ time.sleep(10) -> Makes sure your browser does'nt Crash .
 
 Make sure you run a Proxy on your browser otherwise maybe the Analystics dont consider clicks in Counts . 
 
+If you want to create this bot more powerful then you also use selenium for web scrapping and automate views and clicks on your website. 
+
   Fell free to Contact : sec.maniac@yahoo.com
