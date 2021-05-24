@@ -6,15 +6,15 @@ x = 1
 while True:
   webbrowser.open('http://url/')
   time.sleep(15)
-	webbrowser.open_new_tab('http://url/')
+	webbrowser.open_new_tab('https://www.segadex.space/')
 	time.sleep(10)
-	webbrowser.open_new_tab('http://url/')
+	webbrowser.open_new_tab('https://www.segadex.space/')
 	time.sleep(10)	
-	webbrowser.open_new_tab('http://url/')
+	webbrowser.open_new_tab('https://www.segadex.space/')
 	time.sleep(10)
-	webbrowser.open_new_tab('http://url/')
+	webbrowser.open_new_tab('https://www.segadex.space/')
 	time.sleep(10)	
-	webbrowser.open_new_tab('http://url/')
+	webbrowser.open_new_tab('https://www.segadex.space/')
 	time.sleep(10)
 	x +=1
 	
